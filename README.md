@@ -1,3 +1,4 @@
-# Projetos
-Projeto de jogo da velha executado na generation, participantes : Lucas Silva Trevizan, Gustavo Olegario, Caio Myra, Nicolas.
-
+Projeto jogo da velha, participantes:
+Gustavo Olegário, Nicolas, Caio Myra, Lucas Trevizan.
+Projeto RPG, participantes:
+Bianca, Victor Mirando, Mateus Santos, Lucas Trevizan.
