@@ -3,7 +3,7 @@ package Pacote;
 import java.util.Random;
 
 public class MonstrosDg1 extends Monstro{
-	private String monstros[]={"Vinhas","Árvorosos","Troll"};
+	private String monstros[]={"Vinha","Marina Silva","Troll"};
 	
     Random aleatorio = new Random();
 	

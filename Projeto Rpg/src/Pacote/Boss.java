@@ -34,8 +34,8 @@ public class Boss extends Personagens {
 	}
 	public void constroiBoss3() {
 		  
-		  setVida(h1.getVida()+50);
-		  setForca(h1.getForca()-1);
+		  setVida(h1.getVida()+60);
+		  setForca(h1.getForca()-2);
 		  setDefesa(h1.getDefesa()-4);
 		  setAgilidade(h1.getAgilidade()-2);
 		  setPrecisao(h1.getPrecisao()-2);

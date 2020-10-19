@@ -57,6 +57,7 @@ public class Batalha {
 		}
 		if(inimigo.getVida()<=0 ){
 			System.out.println("Você venceu!!!!");
+			setVitoria(true);
 		}
 		else
 		{
@@ -160,6 +161,7 @@ public class Batalha {
 	public void checar(Personagens personagem) {
 		personagem.checar();	
     }
+	
 	public boolean isFugir() {
 		return fugir;
 	}

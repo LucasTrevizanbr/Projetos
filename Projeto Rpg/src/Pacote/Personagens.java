@@ -97,13 +97,6 @@ public class Personagens {
 		this.precisao = precisao;
 	}
 
-    public void imprimirHeroi(Personagens herois[]){
-    	System.out.println("Escolha uma opção");
-    	for(int x=0;x<herois.length;x++) {
-    	System.out.println(herois[x]);
-    	}	
-    }
-   
 	
 	
 }
