@@ -1,5 +1,6 @@
 package Pacote;
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 import java.util.*;
 public class Batalha {
 	private boolean vitoria;
@@ -16,6 +17,14 @@ public class Batalha {
 	
 	private String tipos[]= {"Fogo","Água","Planta","Elétrico","Normal"};
 	Random aleatorio = new Random();
+	
+	public Batalha(Personagens heroi, Personagens oponente) {
+        principal = heroi;
+        inimigo = oponente;
+		setTurno(1);
+        setVitoria(false);
+		setFugir(false);
+	}
 	
 	public void iniciarBatalha() {
 		System.out.println("O inimigo "+inimigo.getNome()+" Apareceu!");
@@ -64,13 +73,7 @@ public class Batalha {
 		System.out.println();
 	}
 	
-	public Batalha(Personagens heroi, Personagens oponente) {
-        principal = heroi;
-        inimigo = oponente;
-		setTurno(1);
-        setVitoria(false);
-		setFugir(false);
-	}
+	
 	
 	public void calculaVantagem()
 	{ 
@@ -152,6 +155,8 @@ public class Batalha {
 		setEscolha(opc);
 	    
 	}
+	
+	
 	public void checar(Personagens personagem) {
 		personagem.checar();	
     }
