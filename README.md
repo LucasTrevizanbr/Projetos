@@ -7,7 +7,7 @@
 <li>Gustavo Olegario</li>
 <li>Nicolas</li>
 <li>Caio Myra</li>
-
+<br>
 <p> O Segundo projeto executado foi um <b>Game de RPG por turnos</b> , com  base em <b>POO</b> e conceitos comno herança, este projeto finalizou o primeiro módulo<br>
 <b>Participantes:</b><br>
 <ul>
