@@ -14,4 +14,4 @@ O Segundo projeto executado foi um <b>Game de RPG por turnos</b> , com  base em 
 <li>Lucas Silva Trevizan</li>
 <li>Bianca Golin</li>
 <li>Mateus Santos</li>
-<li>Victor Oliveira</li>
+<li>Victor Miranda</li>
