@@ -1,17 +1,35 @@
-# Projetos feitos durante o primeiro módulo do bootcamp da generation <br/>
+# Projetos de fechamento do primeiro módulo do Bootcamp da Generation
+<body>
+<p>Esse repositório contém projetos realizados durante o primeiro módulo do Bootcamp da generation</p>
+  A idéia dos projetos era implementar todo o conteúdo que fomos aprendendo ao decorrer do primeiro mês, além
+  de trabalharmos nossa comunicação e trabalho em equipe já que fizemos o projeto  em grupo.
+</body>
 
-<p> O primeiro projeto executado foi o <b>Jogo da velha</b> , com  base em tudo que aprendemos relacionado a lógica de programação<br>
-<b>Participantes:</b><br>
-<ul>
-<li>Lucas Silva Trevizan</li>
-<li>Gustavo Olegario</li>
-<li>Nicolas</li>
-<li>Caio Myra</li>
-<br>
-O Segundo projeto executado foi um <b>Game de RPG por turnos</b> , com  base em <b>POO</b>, este projeto finalizou o primeiro módulo<br>
-<b>Participantes:</b><br>
-<ul>
-<li>Lucas Silva Trevizan</li>
-<li>Bianca Golin</li>
-<li>Mateus Santos</li>
-<li>Victor Miranda</li>
+# Projeto Jogo da velha
+<body>
+<p>Neste projeto usamos toda a lógica basica que aprendemos para desenvolver um jogo da velha.</p>
+  Trabalhamos em grupo em um live code que durou algumas boas horas, mas foi um trabalho recompensador ao 
+  finalizarmos o projeto.
+  <strong>Participantes:</strong>
+  <ul>
+<li>Lucas Silva Trevizan
+<li>Gustavo Olegario
+<li>Nicolas
+<li>Caio Myra
+  </ul>
+</body>
+
+# Projeto Game de RPG
+<body>
+<p>O segundo projeto de fim de módulo ja contava com conceitos de POO, além da lógica básica</p>
+  Neste projeto durante uma reunião criativa decidimos criar um jogo de RPG por turnos, usamos conceitos 
+  de POO que ajudaram no projeto.
+  <strong>Participantes:</strong>
+  <ul>
+<li>Lucas Silva Trevizan
+<li>Bianca Golin
+<li>Mateus Santos
+<li>Victor Miranda
+  </ul>
+</body>
+
